@@ -1,0 +1,14 @@
+.formAuth {
+	width: 300px;
+	margin: 0 auto;
+}
+.formAuth__sign {
+    margin: 0 auto;
+    background-color: #1188d8;
+    color: white;
+    padding-inline: 5px;
+}
+.formAuth__email,
+.formAuth__password {
+    /* padding: 5px; */
+}
